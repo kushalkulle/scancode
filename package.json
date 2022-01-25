@@ -1,0 +1,14 @@
+{
+  "name": "qr-billing",
+  "version": "1.0.0",
+  "description": "reasearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kushal, navya",
+  "license": "ISC",
+  "devDependencies": {
+    "html5-qrcode": "^2.1.6"
+  }
+}
